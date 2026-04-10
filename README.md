@@ -1,3 +1,1 @@
-```math
-\ce{$\unicode[goombafont; color:red; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.2; pointer-events: none; background-image: url('https://github.com/apex2504/apex2504/assets/47543882/fc24f219-4b40-4d74-bdf9-8101b5744d4f');]{x0000}$}
-```
+<img width="100%" alt="A Discord screenshot of an error in my GitHub profile with a message telling me to fix it" src="https://github.com/user-attachments/assets/5c1e4f50-eec6-4844-b6c9-3d4388f9a83f" />
